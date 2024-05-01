@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dFx/dkBPgxpH6DMZl9pJ6tIcKvkujDlex2ihXXeLit6mZq2idgiFOmWFuAdBJomGdgF4tejMsCtXgDfluePPMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ka.Kovalova\\source\\repos\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ka.Kovalova\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\Ka.Kovalova\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
