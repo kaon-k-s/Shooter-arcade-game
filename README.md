@@ -1,2 +1,2 @@
-# Shooter-arcade-game-
+# Shooter-arcade-game
 C#, Shooter arcade game
