@@ -3,13 +3,13 @@ Simple and fun shooter arcade game. You have three lives to defeat as many enemi
 C#
 
 # Keys
-Pause - ENTER
-Start new game - P
-Sound On/Off - T
-Turn left - A
-Turn right - D
-Move forward - W
-Shoot - SPACE
+Pause - ENTER <br>
+Start new game - P <br>
+Sound On/Off - T <br>
+Turn left - A <br>
+Turn right - D <br>
+Move forward - W <br>
+Shoot - SPACE <br>
 
 # Added features
 1. Score
